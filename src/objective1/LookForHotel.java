@@ -1,3 +1,5 @@
+package objective1;
+
 import java.sql.Time;
 import java.time.Instant;
 import java.util.Date;
@@ -36,7 +38,10 @@ public class LookForHotel{
 	 * @throws RemoteException
 	 */
 	public long call() {
+		long timer = System.currentTimeMillis();
+	
 		
+		return (System.currentTimeMillis()-timer);
 	}
 
 	// ...
