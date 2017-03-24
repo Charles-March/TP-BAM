@@ -1,4 +1,4 @@
-package jus.aor.mobilagent.kernel;
+package kernel;
 
 import java.util.logging.Handler;
 import java.util.logging.LogRecord;

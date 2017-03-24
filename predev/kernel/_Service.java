@@ -1,7 +1,7 @@
 /**
  * J<i>ava</i> U<i>tilities</i> for S<i>tudents</i>
  */
-package jus.aor.mobilagent.kernel;
+package kernel;
 
 /**
  * Définition d'un service pouvant intégrer un serveur.
