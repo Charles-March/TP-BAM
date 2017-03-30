@@ -14,8 +14,8 @@ import java.util.logging.Logger;
 public class LookForHotel{
 
 	private String localisation;
-	private _Annuaire annuaire;
-	private _Chaine chaine;
+	public _Annuaire annuaire;
+	public _Chaine chaine;
 	private List<Hotel> listHotel = new ArrayList<Hotel>();
 	private Map<String, Numero> listNumero = new HashMap<String, Numero>();
 
