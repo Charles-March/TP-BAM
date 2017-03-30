@@ -12,6 +12,8 @@ public class Hotel {
 	public String localisation;
 	/** le nom de l'hôtel */
 	public String name;
+	
+	
 	/**
 	 * Définition d'un hôtel par son nom et sa localisation.
 	 * @param name le nom de l'hôtel
